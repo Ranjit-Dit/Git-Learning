@@ -16,4 +16,4 @@ only those files which are added
 
 step 4: branching
 
-step 5: git push
+step 5: git push -u origin main
